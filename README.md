@@ -1,2 +1,3 @@
-# meetup-1-containerization
-This is a demo for the first meetup up we had on containerization vs virtualization
+# Meetup Docker Demo
+This is a demo that was done by **Reuben** for the meetup up we had on containerization vs virtualization.
+This app demos how to run a basic web app having created your own **dockerfile**
