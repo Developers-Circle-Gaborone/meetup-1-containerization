@@ -5,8 +5,11 @@ Docker is fully supported by any of the three major Operating Systems **MacOs**,
 ### Pre-requisites
 There aren't a set of pre requisites required but if you are comfortable with the command line or text editor then you are good.
 
-### Windows
+### Different types of Operating systems
+The following is a list of popular Operating Systems with links to how to install docker on those platforms
 
-### MacOS
+#### [Windows](https://docs.docker.com/docker-for-windows/install/)
 
-### Linux
+#### [MacOS](https://docs.docker.com/v17.12/docker-for-mac/install/)
+
+#### [Linux - Ubuntu](https://docs.docker.com/install/linux/docker-ce/ubuntu/)
